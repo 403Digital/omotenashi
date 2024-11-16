@@ -1,4 +1,4 @@
-# Motenashi
+# omotenashi
 
 An open-source and modern support ticket system.
 
